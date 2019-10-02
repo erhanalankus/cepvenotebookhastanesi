@@ -190,3 +190,7 @@ a {
 a:hover, a:focus, a:active {
   color: #863ca8;
 }
+
+.link-icon {
+  margin-bottom: 0.3em;
+}

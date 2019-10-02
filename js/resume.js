@@ -26,3 +26,15 @@
   });
 
 })(jQuery); // End of use strict
+
+function goToYolTarifi() {
+  alert("yol");
+}
+
+function goToInstagram() {
+  alert("instagram");
+}
+
+function goToFacebook() {
+  alert("facebook");
+}

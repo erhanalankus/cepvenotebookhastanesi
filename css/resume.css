@@ -191,6 +191,13 @@ a:hover, a:focus, a:active {
   color: #863ca8;
 }
 
-.link-icon {
-  margin-bottom: 0.3em;
+.link-button {
+  width: 50%;
+  cursor: pointer;
+  margin-bottom: 0.75em;
+}
+
+.link-button-text {
+  font-size: 1.3em;
+  font-weight: bold
 }

@@ -28,13 +28,13 @@
 })(jQuery); // End of use strict
 
 function goToYolTarifi() {
-  alert("yol");
+  window.location.href = 'https://goo.gl/maps/sQpnYQFDm8xLnz1HA';
 }
 
 function goToInstagram() {
-  alert("instagram");
+  window.location.href = 'https://www.instagram.com/cepvenotebookhastanesi/';
 }
 
 function goToFacebook() {
-  alert("facebook");
+  window.location.href = 'https://fb.me/cepvenotebookhastanesi';
 }

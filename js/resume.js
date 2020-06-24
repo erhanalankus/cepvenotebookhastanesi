@@ -28,7 +28,7 @@
 })(jQuery); // End of use strict
 
 function goToYolTarifi() {
-  window.location.href = 'https://goo.gl/maps/sQpnYQFDm8xLnz1HA';
+  window.location.href = 'https://goo.gl/maps/A4NPgKCBi7jFUYWp7';
 }
 
 function goToInstagram() {
